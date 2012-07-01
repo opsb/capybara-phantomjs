@@ -23,7 +23,7 @@ Gem::Specification.new do |s|
   s.summary = "Capybara driver for Phantom.js"
 
   s.add_runtime_dependency("capybara", "~> 1.1.2")
-  s.add_runtime_dependency("multi_json", "~> 0.0.5")
+  s.add_runtime_dependency("multi_json", "~> 1.0")
   s.add_runtime_dependency("childprocess", "~> 0.1.7")
   s.add_runtime_dependency("rest-client", "~> 1.6.1")
   s.add_runtime_dependency("yajl-ruby", "~> 0.8.2")
